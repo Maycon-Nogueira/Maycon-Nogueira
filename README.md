@@ -1,7 +1,13 @@
-### Oi, eu sou o maycon! 👋
+
+<header>
+<h1> Oi, eu sou o maycon! 👋 </h1>
+ <img align="right" height="100" width="150"
+ src="https://github.com/Maycon-Nogueira/Maycon-Nogueira/blob/main/goku-songoku.gif">
+</header>
+
 
 <img align="left" height="120" width="180" alt="Logo-SPTECH" src="https://www.sptech.school/assets/images/logos/sptech_logo_1.png">
- Atualmente estou estudando na São Paulo Tech School
+ <h2> Eu sou um estudante da São Paulo Tech School e estou me tornando um desenvolvedor! </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maycon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +29,3 @@
 
 
 
-
-- 📫 Você pode me contatar através do meu email pessoal: mayconsinogueira@gmail.com
-ou estudantil: maycon.nogueira@sptech.school
--->
