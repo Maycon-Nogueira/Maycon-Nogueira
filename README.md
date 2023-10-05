@@ -26,8 +26,10 @@
   
 <p>
   <a href="https://github.com/Maycon-Nogueira">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Maycon-Nogueira&show_icons=true&theme=omni" alt="rdeconti :: Profile Stats" />
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-Nogueira&langs_count=6&theme=omni&layout=compact" alt="rdeconti :: TopLangs" />
+   
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Maycon-Nogueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-Nogueira&layout=compact&langs_count=7&theme=gruvbox"/>
+
  </a>
 </p>
 </div>
